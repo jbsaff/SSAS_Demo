@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SSAS Demo/bin/Data
+/SSAS Demo/Model.bim_jsaffell.settings
+/.vs
