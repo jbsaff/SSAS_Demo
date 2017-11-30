@@ -690,6 +690,17 @@
             "value": "Fact"
           }
         ]
+      },
+      {
+        "name": "CalculatedTable 1",
+        "partitions": [
+          {
+            "name": "CalculatedTable 1",
+            "source": {
+              "type": "calculated"
+            }
+          }
+        ]
       }
     ],
     "relationships": [
